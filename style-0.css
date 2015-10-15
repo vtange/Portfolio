@@ -114,7 +114,9 @@ transform-style: preserve-3d;
     font-size:.8em;
     font-style:italic;
 }
-
+.email-info{
+    display:inline-block;
+}
 
 .links2 {
   margin-bottom:0;
@@ -122,11 +124,26 @@ transform-style: preserve-3d;
 .links2 li {
  background-color:#bbb;
  border:2px outset black;
- border-radius:5px;
+ border-radius:10px;
  padding:4px 15px 4px 15px;
  letter-spacing:0.2em;
  display:inline-block;
- box-shadow:.5px .5px 2px;
+ box-shadow:2px 2px 2px;
+}
+.links3 {
+  position: absolute;
+  top:10%;
+  left:60%;
+}
+.links3 li {
+ background-color:#bbb;
+ border:2px outset black;
+ border-radius:10px;
+ padding:4px 15px 4px 15px;
+ margin-top:1.5em;
+ letter-spacing:0.2em;
+ display:block;
+ box-shadow:2px 2px 2px;
 }
 #slide1 h1{
     color: #bbb;
@@ -138,7 +155,7 @@ transform-style: preserve-3d;
     font-size:1.75em;
     text-shadow: 1px 1px 1px #000;
 }
-#slide1 h5{
+h5{
     color: #000;
     font-size:1.35em;
     text-shadow: 1px 1px 1px #000;
