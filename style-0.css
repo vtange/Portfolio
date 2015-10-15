@@ -94,8 +94,9 @@ transform-style: preserve-3d;
   width: 320px;
   height: 320px;
   border-radius: 500px;
-  background: url("http://danbooru.donmai.us/data/541a7858667e4740818b156dd294e57a.png");
+  background: url("http://vtang.smalldel.com/wp-content/uploads/2015/04/1403760_10202784694231965_8598438404256207922_o.jpg");
   background-position: center;
+  background-size: contain;
   box-shadow: 0 0 8px rgba(0, 0, 0, .7);
 }
 
