@@ -44,15 +44,6 @@ a{
 }
 /*_____________HEADER_________*/
 
-.parallax1{
-position:absolute;
-width:100%;
-min-height: 100vh; 
-margin:0;
-padding:0;
-perspective: 1px;
-transform-style: preserve-3d;
-}
 .slide:before {
   content: "";
   position: absolute;
