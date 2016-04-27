@@ -1,8 +1,12 @@
+![alt tag](http://res.cloudinary.com/dmj8qtant/image/upload/c_limit,w_600/v1461785835/port1_lbrpci.jpg)
 # Portfolio
 
-# Takeaways
+## Tech, Niceties
+ - CSS Parallax
 
-CSS:
+### Details
+
+#### CSS:
  - Classic, Bootstrapped Header
  - Pure CSS Parallax
  
